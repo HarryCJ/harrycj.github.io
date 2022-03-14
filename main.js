@@ -75,13 +75,6 @@ const projects = [{
   tech: ["django", "reactjs"],
   gallery: 9
 }, {
-  folder: "heydonandcarr",
-  url: "https://heydonandcarr.co.uk",
-  title: "Heydon and Carr",
-  description: 'Wordpress site developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
-  tech: ["wordpress"],
-  gallery: 5
-}, {
   folder: "queenbeethrones",
   url: "https://queenbeethrones.com",
   title: "Queen Bee Thrones",
@@ -116,20 +109,6 @@ const projects = [{
   description: 'WooCommerce store developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
   tech: ["woocommerce", "wordpress"],
   gallery: 5
-}, {
-  folder: "a8mt",
-  url: "https://www.a8mt.co.uk",
-  title: "a8mt Homepage",
-  description: 'Homepage developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
-  tech: ["wordpress"],
-  gallery: 3
-}, {
-  folder: "joynerbolt",
-  url: "http://joynerbolt.co.uk",
-  title: "Joyner Bolt Homepage",
-  description: 'Homepage developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
-  tech: ["woocommerce", "wordpress"],
-  gallery: 4
 }, {
   folder: "girls4girls",
   url: "https://girls4girlsbeauty.com",

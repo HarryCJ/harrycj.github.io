@@ -68,12 +68,47 @@ const projects = [{
   tech: ["django", "reactjs", "wagtail", "discourse"],
   gallery: 4
 }, {
-  folder: "sab",
+  folder: "millfieldlane",
+  url: "https://millfieldlanedesigns.co.uk",
+  title: "Millfield Lane",
+  description: 'WooCommerce store developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
+  tech: ["woocommerce", "wordpress"],
+  gallery: 4
+}, {
+  folder: "theretreatsoham",
+  url: "https://theretreatsoham.co.uk",
+  title: "The Retreat Soham",
+  description: 'WooCommerce store developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
+  tech: ["woocommerce", "wordpress"],
+  gallery: 4
+}, {
+  folder: "angliacaravans",
+  url: "https://angliacaravansandaccessories.co.uk",
+  title: "Anglia Caravans",
+  description: 'WooCommerce store developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
+  tech: ["woocommerce", "wordpress"],
+  gallery: 5
+}, {
+  folder: "completekitchens",
   url: null,
-  title: "SAB Checks App",
-  description: "ReactJS PWA powered by Django for property routine checks and inventory management.",
-  tech: ["django", "reactjs"],
-  gallery: 9
+  title: "Complete Kitchens Ely",
+  description: 'Wordpress site developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
+  tech: ["wordpress"],
+  gallery: 4
+}, {
+  folder: "jrconstable",
+  url: "https://jrconstable.com",
+  title: "JR Constable Construction",
+  description: 'Wordpress site developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
+  tech: ["wordpress"],
+  gallery: 3
+}, {
+  folder: "onestopheating",
+  url: "https://onestopheatingandpropertymaintenance.com",
+  title: "One Stop Heating & Property Maintenance",
+  description: 'Wordpress site developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
+  tech: ["wordpress"],
+  gallery: 3
 }, {
   folder: "queenbeethrones",
   url: "https://queenbeethrones.com",
@@ -95,20 +130,6 @@ const projects = [{
   description: 'Wordpress site developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
   tech: ["wordpress"],
   gallery: 4
-}, {
-  folder: "theretreatsoham",
-  url: "https://theretreatsoham.co.uk",
-  title: "The Retreat Soham",
-  description: 'WooCommerce store developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
-  tech: ["woocommerce", "wordpress"],
-  gallery: 4
-}, {
-  folder: "angliacaravans",
-  url: "https://angliacaravansandaccessories.co.uk",
-  title: "Anglia Caravans",
-  description: 'WooCommerce store developed in collaboration with designer <a href="https://www.cultstudios.co.uk">Cult Studios</a>.',
-  tech: ["woocommerce", "wordpress"],
-  gallery: 5
 }, {
   folder: "girls4girls",
   url: "https://girls4girlsbeauty.com",
